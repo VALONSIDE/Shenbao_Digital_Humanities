@@ -1,0 +1,7 @@
+pandas>=2.0.0
+selenium>=4.10.0
+openpyxl>=3.1.0
+matplotlib>=3.7.0
+jieba>=0.42.1
+wordcloud>=1.9.0
+zhconv>=1.4.3
